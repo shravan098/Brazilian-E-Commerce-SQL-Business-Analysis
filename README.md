@@ -1,4 +1,4 @@
-# 🇧🇷 Brazilian E-Commerce SQL Business Analysis
+# Brazilian E-Commerce SQL Business Analysis
 
 ## 📌 Project Overview
 
