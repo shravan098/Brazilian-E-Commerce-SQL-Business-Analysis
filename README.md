@@ -125,12 +125,6 @@ Brazilian-E-Commerce-SQL-Analysis/
 
 │ ├── 09_Executive_Dashboard.sql
 
-│
-
-├── Screenshots/
-
-├── README.md
-
 ---
 
 ## 🎯 Key Skills Demonstrated
